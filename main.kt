@@ -4,3 +4,7 @@ fun main() {
 
     println("save-user-info")
 }
+
+fun saveUserInfo() {
+
+}
